@@ -41,6 +41,6 @@ public class EchoServerHandler extends
         cause.printStackTrace();
         //5.打印异常堆栈跟踪
         ctx.close();
-        //6.关闭通道
+        //6.关闭通道  聊天
     }
 }
